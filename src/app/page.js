@@ -47,6 +47,9 @@ export default function Home() {
           >
             Read our docs
           </a>
+          <p>
+            Hello Ahmer coding next.js with tailwindcss and dark mode
+          </p>
         </div>
       </main>
       <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
